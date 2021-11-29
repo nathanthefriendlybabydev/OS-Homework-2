@@ -47,7 +47,7 @@ The maxmimum and allocated should alternate based on the number of processes, fo
 
 
 ## Expected Output
-```
+
 PID     Maximum         Allocated       Need
 P[0]    7 5 3           0 1 0           7 4 3
 P[1]    3 2 2           2 0 0           1 2 2

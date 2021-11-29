@@ -20,7 +20,7 @@
 After cloning the repository and ensuring you have met the prerequisites
 run these commands in order:
 ```html
-    gcc ./BankerAlg.c -o Banker
+    gcc ./BankersAlg.c -o Banker
     ./Banker
 ```
 Make sure you have the input.txt file with data in the matching format.

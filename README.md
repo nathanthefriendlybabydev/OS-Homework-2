@@ -28,22 +28,22 @@ The format for the input file is as follows:
 ```
 # of Processes
 # of Resource Instances
-# Maximum Resources For Process
-# Allocated Resources For Process
-# of Resources Available
+# Maximum Resources For Process seperated by space: # # #
+# Allocated Resources For Process seperated by space: # # #
+# of Resources Available seperated by space: # # #
 
 ```
 The maxmimum and allocated should alternate based on the number of processes, for example if you put 3 for the number of processes the input file should look like this:
 ```
 # of Processes
 # of Resource Instances
-# Maximum Resources For Process
-# Allocated Resources For Process
-# Maximum Resources For Process
-# Allocated Resources For Process
-# Maximum Resources For Process
-# Allocated Resources For Process
-# of Resources Available
+# Maximum Resources For Process seperated by space: # # #
+# Allocated Resources For Process seperated by space: # # #
+# Maximum Resources For Process seperated by space: # # #
+# Allocated Resources For Process seperated by space: # # #
+# Maximum Resources For Process seperated by space: # # #
+# Allocated Resources For Process seperated by space: # # #
+# of Resources Available seperated by space: # # #
 
 
 ## Expected Output
@@ -57,6 +57,7 @@ P[4]    4 3 3           0 0 2           4 3 1
 System is in SAFE State
 Safe Sequence is: P[1] P[3] P[4] P[0] P[2]
 ```
+Please refer to the input.txt file.
 
 ## References
 ---

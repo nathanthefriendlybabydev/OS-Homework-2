@@ -63,7 +63,7 @@ Please refer to the input.txt file.
 ---
 This is a list of online material and provided material I used to analyze and or edit my code with.
 
-- Banker's Algorithm || Deadlock || Safe State || Operating Systems with Dilip Kumar Gangwar  : https://www.youtube.com/watch?v=62kYwEt3YUA&t=2083s&ab_channel=DilipkumarGangwar
+- Banker's Algorithm || Deadlock || Safe State || Operating Systems with Dilip Kumar Gangwar  : https://www.youtube.com/watch?v=62kYwEt3YUA&t=2083s&ab_channel=DilipkumarGangwar 
 
 - Reading From Text Files In C by CodeVault : https://www.youtube.com/watch?v=k3gSBljW-OE&ab_channel=CodeVault
 
